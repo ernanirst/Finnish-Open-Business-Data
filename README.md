@@ -3,5 +3,7 @@ This program generates a CSV file with basic information of Finnish companies ba
 
 # ToDo
 *Document Code;
+
 *Organize auxiliar variables;
+
 *Organize parameters (Postal codes, business lines and CSV separator).
